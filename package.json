@@ -1,0 +1,23 @@
+{
+  "name": "placepulse",
+  "version": "1.0.0",
+  "description": "PlacePulse - Centralized Campus Placement & Automated Eligibility Verification System",
+  "private": true,
+  "scripts": {
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix server start",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": [
+    "campus-placement",
+    "eligibility-engine",
+    "tpo-portal",
+    "full-stack",
+    "react",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,719 @@
+{
+  "students": [
+    {
+      "id": "std_1",
+      "rollNo": "2022CSB042",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@apex.edu.in",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "department": "Computer Science & Engineering",
+      "batch": 2026,
+      "cgpa": 8.85,
+      "activeBacklogs": 0,
+      "totalBacklogsHistory": 0,
+      "tenthPercentage": 93.4,
+      "twelfthPercentage": 91.2,
+      "gender": "Male",
+      "phone": "+91 98765 43210",
+      "resumeUrl": "https://placepulse.campus/resumes/aarav_sharma_cse.pdf",
+      "skills": [
+        "Data Structures",
+        "React.js",
+        "Node.js",
+        "System Design",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "placementStatus": {
+        "isPlaced": false,
+        "company": null,
+        "role": null,
+        "ctcLpa": null,
+        "tier": null,
+        "offerLetterDate": null
+      }
+    },
+    {
+      "id": "std_2",
+      "rollNo": "2022ECB018",
+      "name": "Priya Patel",
+      "email": "priya.patel@apex.edu.in",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "department": "Electronics & Communication",
+      "batch": 2026,
+      "cgpa": 7.42,
+      "activeBacklogs": 0,
+      "totalBacklogsHistory": 0,
+      "tenthPercentage": 86,
+      "twelfthPercentage": 83.5,
+      "gender": "Female",
+      "phone": "+91 98111 22334",
+      "resumeUrl": "https://placepulse.campus/resumes/priya_patel_ece.pdf",
+      "skills": [
+        "C++",
+        "Python",
+        "IoT",
+        "Embedded Systems",
+        "Digital Signal Processing"
+      ],
+      "placementStatus": {
+        "isPlaced": true,
+        "company": "TCS Digital",
+        "role": "Digital Software Engineer",
+        "ctcLpa": 7,
+        "tier": "TIER_2_DREAM",
+        "offerLetterDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "std_3",
+      "rollNo": "2022CSB089",
+      "name": "Rohan Verma",
+      "email": "rohan.verma@apex.edu.in",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "department": "Computer Science & Engineering",
+      "batch": 2026,
+      "cgpa": 6.45,
+      "activeBacklogs": 2,
+      "totalBacklogsHistory": 2,
+      "tenthPercentage": 77,
+      "twelfthPercentage": 72,
+      "gender": "Male",
+      "phone": "+91 97234 56789",
+      "resumeUrl": "https://placepulse.campus/resumes/rohan_verma_cse.pdf",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "HTML/CSS"
+      ],
+      "placementStatus": {
+        "isPlaced": false,
+        "company": null,
+        "role": null,
+        "ctcLpa": null,
+        "tier": null,
+        "offerLetterDate": null
+      }
+    },
+    {
+      "id": "std_4",
+      "rollNo": "2022MEB015",
+      "name": "Sneha Kulkarni",
+      "email": "sneha.kulkarni@apex.edu.in",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "department": "Mechanical Engineering",
+      "batch": 2026,
+      "cgpa": 8.2,
+      "activeBacklogs": 0,
+      "totalBacklogsHistory": 0,
+      "tenthPercentage": 89.5,
+      "twelfthPercentage": 86,
+      "gender": "Female",
+      "phone": "+91 99887 76655",
+      "resumeUrl": "https://placepulse.campus/resumes/sneha_kulkarni_mech.pdf",
+      "skills": [
+        "AutoCAD",
+        "SolidWorks",
+        "MATLAB",
+        "Ansys",
+        "Thermodynamics",
+        "Python"
+      ],
+      "placementStatus": {
+        "isPlaced": false,
+        "company": null,
+        "role": null,
+        "ctcLpa": null,
+        "tier": null,
+        "offerLetterDate": null
+      }
+    },
+    {
+      "id": "std_5",
+      "rollNo": "2022ITB003",
+      "name": "Vikram Malhotra",
+      "email": "vikram.malhotra@apex.edu.in",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "department": "Information Technology",
+      "batch": 2026,
+      "cgpa": 9.35,
+      "activeBacklogs": 0,
+      "totalBacklogsHistory": 0,
+      "tenthPercentage": 96,
+      "twelfthPercentage": 94.5,
+      "gender": "Male",
+      "phone": "+91 91234 56780",
+      "resumeUrl": "https://placepulse.campus/resumes/vikram_malhotra_it.pdf",
+      "skills": [
+        "Distributed Systems",
+        "Go",
+        "Rust",
+        "Kubernetes",
+        "Algorithms",
+        "Cloud Arch"
+      ],
+      "placementStatus": {
+        "isPlaced": true,
+        "company": "Microsoft",
+        "role": "Software Development Engineer",
+        "ctcLpa": 44,
+        "tier": "TIER_1_SUPER_DREAM",
+        "offerLetterDate": "2026-09-02"
+      }
+    }
+  ],
+  "drives": [
+    {
+      "id": "drv_1",
+      "companyName": "Google India",
+      "companyLogo": "https://www.google.com/favicon.ico",
+      "companyWebsite": "https://careers.google.com",
+      "industry": "Cloud & Internet Services",
+      "role": "Software Engineer (L3)",
+      "jobLocation": "Bangalore / Hyderabad",
+      "employmentType": "Full-Time + 6M Internship",
+      "ctcLpa": 32.5,
+      "stipendPerMonth": 110000,
+      "ctcBreakdown": {
+        "base": 18,
+        "variable": 4.5,
+        "stocks": 10
+      },
+      "tier": "TIER_1_SUPER_DREAM",
+      "description": "Join Google core infrastructure and consumer applications team. As an SDE, you will build massively scalable distributed systems, write clean and efficient C++/Go/Java code, and collaborate with world-class engineers.",
+      "registrationDeadline": "2026-10-14T10:08:41.394Z",
+      "driveDate": "2026-10-18",
+      "status": "ACTIVE",
+      "rounds": [
+        {
+          "id": 1,
+          "name": "Online Coding Challenge",
+          "date": "2026-10-18",
+          "mode": "Online (HackerRank - 90 mins)",
+          "description": "2 Data Structures & Algorithms problems"
+        },
+        {
+          "id": 2,
+          "name": "Technical Interview 1",
+          "date": "2026-10-22",
+          "mode": "Google Meet",
+          "description": "Problem Solving, Algorithms, Complexity Analysis"
+        },
+        {
+          "id": 3,
+          "name": "Technical Interview 2",
+          "date": "2026-10-23",
+          "mode": "Google Meet",
+          "description": "System Design Fundamentals & OS/Networks"
+        },
+        {
+          "id": 4,
+          "name": "Googliness & Leadership",
+          "date": "2026-10-25",
+          "mode": "Google Meet",
+          "description": "Culture, behavioral, leadership principles"
+        }
+      ],
+      "eligibilityCriteria": {
+        "minCgpa": 8,
+        "maxActiveBacklogs": 0,
+        "allowHistoryBacklogs": false,
+        "minTenthPercentage": 75,
+        "minTwelfthPercentage": 75,
+        "eligibleBranches": [
+          "Computer Science & Engineering",
+          "Information Technology"
+        ],
+        "eligibleBatches": [
+          2026
+        ],
+        "genderRestriction": "ALL",
+        "tierEligibilityRequired": "ALLOW_UPGRADE"
+      },
+      "attachments": [
+        {
+          "name": "Google_Campus_JD_2026.pdf",
+          "size": "1.4 MB"
+        },
+        {
+          "name": "Coding_Syllabus_Guide.pdf",
+          "size": "420 KB"
+        }
+      ],
+      "createdAt": "2026-10-08T10:08:41.395Z"
+    },
+    {
+      "id": "drv_2",
+      "companyName": "Cisco Systems",
+      "companyLogo": "https://www.cisco.com/favicon.ico",
+      "companyWebsite": "https://jobs.cisco.com",
+      "industry": "Networking & Cybersecurity",
+      "role": "Software Engineer - Cloud & Security",
+      "jobLocation": "Bangalore",
+      "employmentType": "Full-Time",
+      "ctcLpa": 17.5,
+      "stipendPerMonth": 65000,
+      "ctcBreakdown": {
+        "base": 14,
+        "variable": 2,
+        "stocks": 1.5
+      },
+      "tier": "TIER_1_SUPER_DREAM",
+      "description": "Cisco is seeking dynamic engineering graduates for our core enterprise networking and cloud security suites. Hands-on experience with Python, C++, Linux kernel, or computer networking is preferred.",
+      "registrationDeadline": "2026-10-12T10:08:41.395Z",
+      "driveDate": "2026-10-15",
+      "status": "ACTIVE",
+      "rounds": [
+        {
+          "id": 1,
+          "name": "National Level OA",
+          "date": "2026-10-15",
+          "mode": "Online Test (Cisco Test Platform)",
+          "description": "MCQs (Networks/OS) + 2 Coding Questions"
+        },
+        {
+          "id": 2,
+          "name": "Technical Round",
+          "date": "2026-10-17",
+          "mode": "Webex Virtual",
+          "description": "Data Structures & Computer Networks"
+        },
+        {
+          "id": 3,
+          "name": "Managerial & HR",
+          "date": "2026-10-19",
+          "mode": "Webex Virtual",
+          "description": "Project Discussion and Culture Fit"
+        }
+      ],
+      "eligibilityCriteria": {
+        "minCgpa": 7,
+        "maxActiveBacklogs": 0,
+        "allowHistoryBacklogs": true,
+        "minTenthPercentage": 70,
+        "minTwelfthPercentage": 70,
+        "eligibleBranches": [
+          "Computer Science & Engineering",
+          "Information Technology",
+          "Electronics & Communication"
+        ],
+        "eligibleBatches": [
+          2026
+        ],
+        "genderRestriction": "ALL",
+        "tierEligibilityRequired": "ALLOW_UPGRADE"
+      },
+      "attachments": [
+        {
+          "name": "Cisco_Campus_Profile.pdf",
+          "size": "2.1 MB"
+        }
+      ],
+      "createdAt": "2026-10-07T10:08:41.395Z"
+    },
+    {
+      "id": "drv_3",
+      "companyName": "Deloitte USI",
+      "companyLogo": "https://www.deloitte.com/favicon.ico",
+      "companyWebsite": "https://www2.deloitte.com",
+      "industry": "Management & Technology Consulting",
+      "role": "Associate Analyst - Enterprise Technology",
+      "jobLocation": "Hyderabad / Gurgaon / Bangalore",
+      "employmentType": "Full-Time",
+      "ctcLpa": 8.5,
+      "stipendPerMonth": 30000,
+      "ctcBreakdown": {
+        "base": 7.2,
+        "variable": 1.3,
+        "stocks": 0
+      },
+      "tier": "TIER_2_DREAM",
+      "description": "Work with Fortune 500 clients to architect digital transformation solutions, cloud migrations, Salesforce, SAP, and custom full-stack solutions.",
+      "registrationDeadline": "2026-10-16T10:08:41.395Z",
+      "driveDate": "2026-10-24",
+      "status": "ACTIVE",
+      "rounds": [
+        {
+          "id": 1,
+          "name": "Aptitude & Tech Assessment",
+          "date": "2026-10-24",
+          "mode": "Online (AMCAT)",
+          "description": "Cognitive, English, Basic Programming"
+        },
+        {
+          "id": 2,
+          "name": "Tech & Case Interview",
+          "date": "2026-10-26",
+          "mode": "Zoom",
+          "description": "Problem Solving & Resume deep dive"
+        },
+        {
+          "id": 3,
+          "name": "Partner Round",
+          "date": "2026-10-27",
+          "mode": "Zoom",
+          "description": "Consulting mindset and communication"
+        }
+      ],
+      "eligibilityCriteria": {
+        "minCgpa": 6.8,
+        "maxActiveBacklogs": 0,
+        "allowHistoryBacklogs": true,
+        "minTenthPercentage": 65,
+        "minTwelfthPercentage": 65,
+        "eligibleBranches": [
+          "Computer Science & Engineering",
+          "Information Technology",
+          "Electronics & Communication",
+          "Mechanical Engineering"
+        ],
+        "eligibleBatches": [
+          2026
+        ],
+        "genderRestriction": "ALL",
+        "tierEligibilityRequired": "ALLOW_UPGRADE"
+      },
+      "attachments": [
+        {
+          "name": "Deloitte_Role_Description.pdf",
+          "size": "980 KB"
+        }
+      ],
+      "createdAt": "2026-10-09T10:08:41.395Z"
+    },
+    {
+      "id": "drv_4",
+      "companyName": "L&T Technology Services",
+      "companyLogo": "https://www.ltts.com/favicon.ico",
+      "companyWebsite": "https://www.ltts.com",
+      "industry": "Engineering R&D Services",
+      "role": "Graduate Engineer Trainee - Core R&D",
+      "jobLocation": "Vadodara / Chennai / Pune",
+      "employmentType": "Full-Time",
+      "ctcLpa": 6.2,
+      "stipendPerMonth": 22000,
+      "ctcBreakdown": {
+        "base": 5.5,
+        "variable": 0.7,
+        "stocks": 0
+      },
+      "tier": "TIER_2_DREAM",
+      "description": "Work on cutting-edge automotive chassis design, renewable energy systems, digital twin simulation, and precision hardware engineering.",
+      "registrationDeadline": "2026-10-15T10:08:41.395Z",
+      "driveDate": "2026-10-20",
+      "status": "ACTIVE",
+      "rounds": [
+        {
+          "id": 1,
+          "name": "Domain Aptitude & Core Written",
+          "date": "2026-10-20",
+          "mode": "Placement Hall 3 (Offline)",
+          "description": "Core Engineering concepts & Design basics"
+        },
+        {
+          "id": 2,
+          "name": "Technical Panel Interview",
+          "date": "2026-10-21",
+          "mode": "Offline Boardroom",
+          "description": "Final year project & CAD/FEA test"
+        }
+      ],
+      "eligibilityCriteria": {
+        "minCgpa": 6.5,
+        "maxActiveBacklogs": 1,
+        "allowHistoryBacklogs": true,
+        "minTenthPercentage": 60,
+        "minTwelfthPercentage": 60,
+        "eligibleBranches": [
+          "Mechanical Engineering",
+          "Electronics & Communication"
+        ],
+        "eligibleBatches": [
+          2026
+        ],
+        "genderRestriction": "ALL",
+        "tierEligibilityRequired": "ALL"
+      },
+      "attachments": [
+        {
+          "name": "LTTS_GET_Overview.pdf",
+          "size": "1.8 MB"
+        }
+      ],
+      "createdAt": "2026-10-06T10:08:41.395Z"
+    },
+    {
+      "id": "drv_5",
+      "companyName": "Adobe SheCodes",
+      "companyLogo": "https://www.adobe.com/favicon.ico",
+      "companyWebsite": "https://adobe.com/careers",
+      "industry": "Creative & Digital Experience Cloud",
+      "role": "Product Development Engineer (Diversity Drive)",
+      "jobLocation": "Noida / Bangalore",
+      "employmentType": "Full-Time + Internship",
+      "ctcLpa": 26,
+      "stipendPerMonth": 95000,
+      "ctcBreakdown": {
+        "base": 16.5,
+        "variable": 3.5,
+        "stocks": 6
+      },
+      "tier": "TIER_1_SUPER_DREAM",
+      "description": "Adobe SheCodes is a flagship initiative celebrating talented female engineers. Build next-gen AI tools for Premiere Pro, Photoshop, and Adobe Experience Cloud.",
+      "registrationDeadline": "2026-10-17T10:08:41.395Z",
+      "driveDate": "2026-10-28",
+      "status": "ACTIVE",
+      "rounds": [
+        {
+          "id": 1,
+          "name": "Adobe Online Assessment",
+          "date": "2026-10-28",
+          "mode": "Online (HackerEarth)",
+          "description": "3 algorithmic problems + C++ / Java outputs"
+        },
+        {
+          "id": 2,
+          "name": "System & Coding Round",
+          "date": "2026-10-30",
+          "mode": "MS Teams",
+          "description": "Data structures & OO Design"
+        },
+        {
+          "id": 3,
+          "name": "Director Round",
+          "date": "2026-11-02",
+          "mode": "MS Teams",
+          "description": "Product thinking & Values"
+        }
+      ],
+      "eligibilityCriteria": {
+        "minCgpa": 7.5,
+        "maxActiveBacklogs": 0,
+        "allowHistoryBacklogs": false,
+        "minTenthPercentage": 70,
+        "minTwelfthPercentage": 70,
+        "eligibleBranches": [
+          "Computer Science & Engineering",
+          "Information Technology",
+          "Electronics & Communication"
+        ],
+        "eligibleBatches": [
+          2026
+        ],
+        "genderRestriction": "FEMALE_ONLY",
+        "tierEligibilityRequired": "ALLOW_UPGRADE"
+      },
+      "attachments": [
+        {
+          "name": "Adobe_SheCodes_Guidelines.pdf",
+          "size": "1.2 MB"
+        }
+      ],
+      "createdAt": "2026-10-09T10:08:41.395Z"
+    },
+    {
+      "id": "drv_6",
+      "companyName": "TCS National Qualifier (NQT)",
+      "companyLogo": "https://www.tcs.com/favicon.ico",
+      "companyWebsite": "https://www.tcs.com",
+      "industry": "IT Services & Global Consulting",
+      "role": "Ninja / Digital Software Engineer",
+      "jobLocation": "Pan India",
+      "employmentType": "Full-Time",
+      "ctcLpa": 4.2,
+      "stipendPerMonth": 18000,
+      "ctcBreakdown": {
+        "base": 3.8,
+        "variable": 0.4,
+        "stocks": 0
+      },
+      "tier": "TIER_3_REGULAR",
+      "description": "Mass recruitment drive open across all branches. Offers Ninja (3.6 LPA) and Digital (7.0 LPA) bands based on performance in NQT.",
+      "registrationDeadline": "2026-10-20T10:08:41.395Z",
+      "driveDate": "2026-11-05",
+      "status": "ACTIVE",
+      "rounds": [
+        {
+          "id": 1,
+          "name": "National Qualifier Test (NQT)",
+          "date": "2026-11-05",
+          "mode": "TCS iON Center",
+          "description": "Aptitude, Numerical, Verbal, Advanced Coding"
+        },
+        {
+          "id": 2,
+          "name": "Technical & HR Interview",
+          "date": "2026-11-12",
+          "mode": "Virtual",
+          "description": "Combined Technical + HR Panel"
+        }
+      ],
+      "eligibilityCriteria": {
+        "minCgpa": 6,
+        "maxActiveBacklogs": 1,
+        "allowHistoryBacklogs": true,
+        "minTenthPercentage": 60,
+        "minTwelfthPercentage": 60,
+        "eligibleBranches": [
+          "Computer Science & Engineering",
+          "Information Technology",
+          "Electronics & Communication",
+          "Mechanical Engineering"
+        ],
+        "eligibleBatches": [
+          2026
+        ],
+        "genderRestriction": "ALL",
+        "tierEligibilityRequired": "UNPLACED_ONLY"
+      },
+      "attachments": [
+        {
+          "name": "TCS_NQT_Syllabus.pdf",
+          "size": "840 KB"
+        }
+      ],
+      "createdAt": "2026-10-05T10:08:41.395Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app_1",
+      "driveId": "drv_1",
+      "studentId": "std_1",
+      "appliedAt": "2026-10-09T14:08:41.395Z",
+      "status": "SHORTLISTED_FOR_OA",
+      "eligibilitySnapshot": {
+        "cgpa": 8.85,
+        "activeBacklogs": 0,
+        "branch": "Computer Science & Engineering",
+        "passedAllChecks": true
+      },
+      "notes": "Candidate registered successfully. HackerRank OA link sent to aarav.sharma@apex.edu.in",
+      "interviewSchedule": {
+        "roundName": "Online Coding Challenge",
+        "date": "2026-10-18T10:00:00",
+        "venue": "Online (HackerRank Proctored Platform)"
+      }
+    },
+    {
+      "id": "app_2",
+      "driveId": "drv_2",
+      "studentId": "std_1",
+      "appliedAt": "2026-10-08T22:08:41.395Z",
+      "status": "TECH_ROUND_1",
+      "eligibilitySnapshot": {
+        "cgpa": 8.85,
+        "activeBacklogs": 0,
+        "branch": "Computer Science & Engineering",
+        "passedAllChecks": true
+      },
+      "notes": "Scored 100/100 in Cisco OA. Advanced to Technical Panel round.",
+      "interviewSchedule": {
+        "roundName": "Technical Interview 1",
+        "date": "2026-10-17T14:30:00",
+        "venue": "Webex Meeting ID: 849-291-002 (Passcode: CISCO26)"
+      }
+    },
+    {
+      "id": "app_3",
+      "driveId": "drv_4",
+      "studentId": "std_4",
+      "appliedAt": "2026-10-09T19:08:41.395Z",
+      "status": "APPLIED",
+      "eligibilitySnapshot": {
+        "cgpa": 8.2,
+        "activeBacklogs": 0,
+        "branch": "Mechanical Engineering",
+        "passedAllChecks": true
+      },
+      "notes": "Application received and verified against Core Mechanical eligibility criteria.",
+      "interviewSchedule": null
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann_1",
+      "title": "URGENT: Cisco Registration Closes in 48 Hours",
+      "message": "All eligible students from CSE, IT, and ECE with CGPA >= 7.0 must complete their portal application. Unverified students will not be forwarded to the company.",
+      "category": "URGENT_DEADLINE",
+      "priority": "HIGH",
+      "driveId": "drv_2",
+      "companyName": "Cisco Systems",
+      "postedBy": "Dr. Rajesh Sharma, Head TPO",
+      "createdAt": "2026-10-10T06:08:41.395Z"
+    },
+    {
+      "id": "ann_2",
+      "title": "Google SDE Drive Live on PlacePulse - Zero WhatsApp Submissions",
+      "message": "Google India has opened registrations for Software Engineer (L3) with 32.5 LPA CTC. Please verify your checklist on the drive page. Do NOT send resumes over WhatsApp or email.",
+      "category": "NEW_DRIVE",
+      "priority": "HIGH",
+      "driveId": "drv_1",
+      "companyName": "Google India",
+      "postedBy": "Dr. Rajesh Sharma, Head TPO",
+      "createdAt": "2026-10-09T10:08:41.395Z"
+    },
+    {
+      "id": "ann_3",
+      "title": "College Placement Policy Strict Reminder: No Offer Hoarding",
+      "message": "Students holding Tier 2 (Dream) offers cannot register for Tier 3 drives or other Tier 2 drives without meeting the 1.4x CTC upgrade criterion. Violations will result in placement de-registration.",
+      "category": "POLICY_UPDATE",
+      "priority": "MEDIUM",
+      "driveId": null,
+      "companyName": null,
+      "postedBy": "Dr. Rajesh Sharma, Head TPO",
+      "createdAt": "2026-10-08T10:08:41.395Z"
+    },
+    {
+      "id": "ann_4",
+      "title": "Adobe SheCodes 2026 Diversity Drive Announced",
+      "message": "Exclusively for female candidates across CSE, IT, and ECE. Eligible students should review the prep syllabus in the attachments section.",
+      "category": "NEW_DRIVE",
+      "priority": "NORMAL",
+      "driveId": "drv_5",
+      "companyName": "Adobe",
+      "postedBy": "Placement Cell",
+      "createdAt": "2026-10-09T04:08:41.395Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log_1",
+      "action": "ELIGIBILITY_PASSED_APPLICATION",
+      "studentId": "std_1",
+      "studentName": "Aarav Sharma",
+      "driveId": "drv_1",
+      "companyName": "Google India",
+      "reason": "Student CGPA 8.85 >= 8.0, 0 backlogs, CSE branch passed all validation rules.",
+      "timestamp": "2026-10-09T14:08:41.395Z"
+    },
+    {
+      "id": "log_2",
+      "action": "APPLICATION_BLOCKED_POLICY",
+      "studentId": "std_2",
+      "studentName": "Priya Patel",
+      "driveId": "drv_3",
+      "companyName": "Deloitte USI",
+      "reason": "Policy safeguard blocked application: Priya Patel already holds Tier 2 offer (TCS Digital @ 7.0 LPA) and cannot apply for another Tier 2 drive (Deloitte @ 8.5 LPA < 1.4x current CTC).",
+      "timestamp": "2026-10-09T22:08:41.395Z"
+    },
+    {
+      "id": "log_3",
+      "action": "APPLICATION_BLOCKED_CRITERIA",
+      "studentId": "std_3",
+      "studentName": "Rohan Verma",
+      "driveId": "drv_1",
+      "companyName": "Google India",
+      "reason": "Student has 2 active backlogs (max allowed: 0) and CGPA 6.45 < 8.0 cutoff.",
+      "timestamp": "2026-10-10T02:08:41.395Z"
+    }
+  ],
+  "settings": {
+    "institutionName": "Apex Institute of Technology & Management",
+    "currentAcademicYear": "2025-2026",
+    "activeBatch": 2026,
+    "tpoAdminName": "Dr. Rajesh Sharma",
+    "tpoEmail": "tpo@apex.edu.in"
+  }
+}
